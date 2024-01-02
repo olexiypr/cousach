@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/95PZVDEMCuacJxAvFUITST5WxvSXxE/dgO2PWeHLag=",
+  "Source": "SQLProvider.Api",
+  "BasePath": "_content/SQLProvider.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

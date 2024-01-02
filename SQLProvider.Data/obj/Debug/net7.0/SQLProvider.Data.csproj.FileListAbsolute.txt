@@ -1,0 +1,15 @@
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\bin\Debug\net7.0\SQLProvider.Data.deps.json
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\bin\Debug\net7.0\SQLProvider.Data.dll
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\bin\Debug\net7.0\SQLProvider.Data.pdb
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.csproj.AssemblyReference.cache
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.AssemblyInfoInputs.cache
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.AssemblyInfo.cs
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.csproj.CoreCompileInputs.cache
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.dll
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\refint\SQLProvider.Data.dll
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.pdb
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\ref\SQLProvider.Data.dll
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\bin\Debug\net7.0\SQLProvider.Infrastructure.dll
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\bin\Debug\net7.0\SQLProvider.Infrastructure.pdb
+C:\Users\alosh\RiderProjects\SQLProvider\SQLProvider.Data\obj\Debug\net7.0\SQLProvider.Data.csproj.CopyComplete

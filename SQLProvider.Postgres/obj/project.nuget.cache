@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XZQeNl0XExz55ikjVAINHGwJy79PE1Ok+vXzFt0yR1yctKZOlqJ1CMljo8x3YsH5lwE5i4d5b9iL+kQfkkFtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alosh\\RiderProjects\\SQLProvider\\SQLProvider.Postgres\\SQLProvider.Postgres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alosh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alosh\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+
+ csharpsquid:S3217A"wEither change the type of 'dict' to 'dynamic' or iterate on a generic collection of type 'IDictionary<string, object>'.(Þã¶ûûÿÿÿÿ8ÂÖÌŠÊ1
+ csharpsquid:S3217T"wEither change the type of 'dict' to 'dynamic' or iterate on a generic collection of type 'IDictionary<string, object>'.(Þã¶ûûÿÿÿÿ8¦®ìŠÊ1
+~csharpsquid:S4487"URemove this unread private field '_connection' or refactor the code to use its value.(¿å½Îýÿÿÿÿ8Å€­ŠÊ1

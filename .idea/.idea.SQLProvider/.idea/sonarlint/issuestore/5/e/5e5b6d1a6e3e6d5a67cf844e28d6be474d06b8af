@@ -1,0 +1,3 @@
+
+Ћcsharpsquid:S101"rRename class 'IPostrgesCommandHandler' to match pascal case naming rules, consider using 'PostrgesCommandHandler'.(Жћио
+_csharpsquid:S2094"BRemove this empty class, write its code or make it an "interface".(Жћио
